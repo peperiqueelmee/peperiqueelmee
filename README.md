@@ -1,5 +1,5 @@
 # 💫 About Me:
-👯 I’m looking to collaborate on my first job<br>🌱 I’m currently learning BPMN<br>💬 Ask me about football
+👯 I’m looking to collaborate on my first job<br>🌱 I’m currently learning Docker<br>💬 Ask me about football
 
 
 ## 🌐 Socials:
