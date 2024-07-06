@@ -1,7 +1,3 @@
-# 💫 About Me:
-👯 I’m looking to collaborate on my first job<br>🌱 I’m currently learning Docker<br>💬 Ask me about football
-
-
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/peperiquelmee) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/joseriquelmearavena) 
 
